@@ -5,7 +5,7 @@ It is just a list with some posts that may help you coding
 ### awesome-pages
 [The Great Code Adventure](https://www.thegreatcodeadventure.com/)
 
-### Guides that allowed to carry out this project
+### Guides that allowed to carry out my thesis
 
 1.  [Run mysql in a docker container](https://medium.com/@crmcmullen/how-to-run-mysql-in-a-docker-container-on-macos-with-persistent-local-data-58b89aec496a)
 2.  [Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/#initial)
