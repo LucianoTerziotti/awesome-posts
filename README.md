@@ -1,7 +1,7 @@
 ### awesome-posts
 It is just a list with some posts that may help you coding
 
-[Spring Annotations Dzone](https://dzone.com/articles/a-guide-to-spring-framework-annotations)
+[Spring Annotations Resume](https://dzone.com/articles/a-guide-to-spring-framework-annotations)
 
 ### awesome-pages
 [The Great Code Adventure](https://www.thegreatcodeadventure.com/)
